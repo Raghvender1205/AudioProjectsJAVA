@@ -1,0 +1,12 @@
+[0m2021.06.27 00:23:44 INFO  Started: Metals version 0.10.4 in workspace 'D:\Audio_Signal Processing Research\AudioProjectsJAVA\VolumeSliderSineWave\SliderFreqSine' for client Visual Studio Code 1.57.1.[0m
+[0m2021.06.27 00:23:50 INFO  time: initialize in 5.92s[0m
+[0m2021.06.27 00:23:50 WARN  Build server is not auto-connectable.[0m
+[0m2021.06.27 00:23:50 WARN  no build tool detected in workspace 'D:\Audio_Signal Processing Research\AudioProjectsJAVA\VolumeSliderSineWave\SliderFreqSine'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Jun 27, 2021 12:24:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 27, 2021 12:24:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 27, 2021 12:35:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 27, 2021 12:35:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
